@@ -1,0 +1,95 @@
+! 2020 https://studyflix.de
+studyflix.de##.-enabled.up-can-clean.huge-notification
+
+! 2020 https://www.sofatutor.com
+www.sofatutor.com##.show-for-large.js-exit-intent-popup.simple-lightbox__popup.exit-intent
+www.sofatutor.com##.show-for-large.js-exit-intent-overlay.bg-black-transparent.simple-lightbox
+www.sofatutor.com##.olark-size-md.olark-chat-tab.olark-launch-button
+www.sofatutor.com###chat-attention-grabber
+
+! 2020 https://www.mathebibel.de
+www.mathebibel.de/files/*/2020*.jpg$image
+www.mathebibel.de###footer-info
+www.mathebibel.de##.n2g
+www.mathebibel.de###n2g_script > form
+www.mathebibel.de###banner-desktop > div
+www.mathebibel.de###provenexpert
+www.mathebibel.de###about
+
+! 2020 https://www.easy-tutor.eu
+www.easy-tutor.eu##.fl-visible-desktop.fl-col-small.fl-node-5e289d79bcd69.fl-col
+www.easy-tutor.eu##.slick-slider.slick-initialized.badgeslick
+www.easy-tutor.eu##.fl-visible-desktop.fl-col-small.fl-node-5d5c5a675173c.fl-col > .fl-node-content.fl-col-content
+www.easy-tutor.eu##.fl-visible-desktop.fl-col-small.fl-node-5e399783e6c27.fl-col > .fl-node-content.fl-col-content
+
+! 2020 https://www.chip.de
+www.chip.de##.mb-sm.mt-sm > .block.has-states.secondary
+
+! 2020 https://praxistipps.chip.de
+praxistipps.chip.de##.block > .LazyImage > .loaded.Lazy
+praxistipps.chip.de##div.fb-col-lg-8.fb-col-md-8.Article__Intro:nth-of-type(2)
+
+! 2020 https://www.chip.de
+www.chip.de###opinary-root
+
+! 2020 https://www.lernwolf.de
+www.lernwolf.de##.block.last.partner-catlux
+www.lernwolf.de##.col-sm-offset-1.col-xs-12.col-sm-3.col-md-3.col-lg-3.sidebar
+www.lernwolf.de##.rsm-edition.shariff
+
+! 2020 https://www.kleineschule.com.de
+www.kleineschule.com.de##.twitter-share-button
+
+! 2020 https://www.bildungsserver.de
+www.bildungsserver.de###js-disrupter-link
+
+! 2020 https://www-de.scoyo.com
+www-de.scoyo.com##.m16.container-fluid > .container > .row > .col-xs-12
+www-de.scoyo.com##.custom-test-teaser-trust
+
+! 2020 https://www.schule-und-familie.de
+www.schule-und-familie.de###high-skyscraper
+www.schule-und-familie.de##div#billboardcontent:nth-of-type(15)
+
+! 2020 https://www.skills4school.de
+www.skills4school.de###exitpopup-modal
+
+! 2020 https://www.gut-erklaert.de
+www.gut-erklaert.de##.utility-box
+www.gut-erklaert.de##.contentBody > div:nth-of-type(1)
+www.gut-erklaert.de##.contentBody > div:nth-of-type(3)
+www.gut-erklaert.de##div:nth-of-type(4) > .contentlabel
+www.gut-erklaert.de##.feedback
+www.gut-erklaert.de##.bottomWb > div
+www.gut-erklaert.de##span.contentlabel:nth-of-type(3)
+www.gut-erklaert.de##.contentBody > span.contentlabel:nth-of-type(1)
+www.gut-erklaert.de##.noContentBannerWb > div
+www.gut-erklaert.de##.contentBody > div:nth-of-type(6)
+www.gut-erklaert.de##.contentBody > div:nth-of-type(2)
+www.gut-erklaert.de##span.contentlabel:nth-of-type(2)
+www.gut-erklaert.de##.bottomArea > div
+
+! 2020 https://www.frustfrei-lernen.de
+www.frustfrei-lernen.de##.utility-box
+www.frustfrei-lernen.de##.contentBody > div:nth-of-type(1)
+www.frustfrei-lernen.de##.contentBody > div:nth-of-type(3)
+www.frustfrei-lernen.de##div:nth-of-type(4) > .contentlabel
+www.frustfrei-lernen.de##.feedback
+www.frustfrei-lernen.de##.bottomWb > div
+www.frustfrei-lernen.de##span.contentlabel:nth-of-type(3)
+www.frustfrei-lernen.de##.contentBody > span.contentlabel:nth-of-type(1)
+www.frustfrei-lernen.de##.noContentBannerWb > div
+www.frustfrei-lernen.de##.contentBody > div:nth-of-type(6)
+www.frustfrei-lernen.de##.contentBody > div:nth-of-type(2)
+www.frustfrei-lernen.de##span.contentlabel:nth-of-type(2)
+www.frustfrei-lernen.de##.bottomArea > div
+www.frustfrei-lernen.de##.sidebarArea.dropdown > div > .contentlabel
+
+! 2020 https://der-nachhilfe-lehrer.de
+der-nachhilfe-lehrer.de###snppopup-exit
+der-nachhilfe-lehrer.de###block-b8d5a3a708a1264f
+der-nachhilfe-lehrer.de###block-bon5e615a48ee64a
+
+! 2020 https://www.redio.info
+www.redio.info##.b-horizontal.banner
+www.redio.info##.b-vertical.banner
