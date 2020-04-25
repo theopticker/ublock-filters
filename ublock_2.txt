@@ -1,0 +1,75 @@
+! 2020 https://www.ksta.de
+www.ksta.de##section.dm_content_block.module_for_tracking:nth-of-type(1)
+www.ksta.de##section.dm_content_block.module_for_tracking:nth-of-type(4) > article.dm_ta300x300:nth-of-type(5)
+www.ksta.de##section.dm_content_block.module_for_tracking:nth-of-type(7) > article.dm_ta300x300:nth-of-type(2)
+www.ksta.de##.squares.dm_column_slider_940x--
+www.ksta.de##section.dm_content_block.module_for_tracking:nth-of-type(28)
+||www.ksta.de/image/29695996/max/1920/1080/8097a1a96b71b85dcced1104d0e850d3/LH/yourjob-header.jpg$image
+www.ksta.de##.breakingNewsLayout.dm_teaser_verticle_block_300.dm_sidebar_sticky.dm_sidebar
+
+! 2020 https://www.focus.de
+www.focus.de##div.textBlock:nth-of-type(15)
+www.focus.de###opinary-root
+www.focus.de##.article-social-border
+www.focus.de###main01 > .grid_12.block > .teaserList-ontop
+
+! 2020 https://www.n-tv.de
+www.n-tv.de##.sparwelt
+
+! 2020 https://www.stern.de
+www.stern.de##div.o-teaser-block-wrapper:nth-of-type(18) > .trac-teaserblock.section-teaser.clearfix > .o-teaser-row > .with_ad.with_fallback.o-teaser-standard.o-teaser-article.o-teaser
+www.stern.de##div.o-teaser-block-wrapper:nth-of-type(26) > .trac-teaserblock.section-teaser.clearfix > .o-teaser-row > .with_ad.with_fallback.o-teaser-standard.o-teaser-article.o-teaser > .fallbackcontent > div > .h-partnertools.html-teaser
+www.stern.de##div.o-teaser-block-wrapper:nth-of-type(23) > .trac-teaserblock.section-teaser.clearfix > .o-teaser-row > .with_ad.with_fallback.o-teaser-standard.o-teaser-article.o-teaser > .fallbackcontent
+www.stern.de##.scroll.stern-gutscheinbox
+
+! 2020 https://www.faz.net
+www.faz.net###mycountrytalks-embed
+www.faz.net###opinary-root
+
+! 2020 https://rp-online.de
+! Site is broken using adblock, many rows just invisible buttons have no function.
+! Probably because they get every content from the these urls: datawrapper.de and dwcdn.net
+! I wouldn't use this site, your decision
+
+! 2020 https://www.sueddeutsche.de
+www.sueddeutsche.de##.body > .lazyloaded
+www.sueddeutsche.de##.heidorn-deals
+
+! 2020 https://www.tagesspiegel.de
+www.tagesspiegel.de###ig-code-promo-widget
+
+! 2020 https://www.wiwo.de
+www.wiwo.de##.c-sticky-footer__wrap
+www.wiwo.de##div.js-tt:nth-of-type(7) > center > .u-margin-mobile-bottom-xxxl.u-margin-bottom-xl.o-article > .c-link--borderless.c-link--inverted.c-link > picture > .u-fit
+www.wiwo.de##.js-tt.u-flex__item--mobile-basis100.u-flex__item--basis33.u-flex__item > .u-mobile-hidden
+www.wiwo.de##.js-tt.u-flex__item--mobile-basis100.u-flex__item--basis33.u-flex__item > .u-image-teaser-border.u-image-teaser.o-teaser-list
+www.wiwo.de##div.js-tt:nth-of-type(19) > .c-teasergallery--content-whitehub.js-tt.c-teasergallery
+
+! 2020 https://www.bild.de
+www.bild.de##.partnerfont
+
+! 2020 https://www.derwesten.de
+www.derwesten.de##.block-header--font-big.block-header--banner.block-header
+www.derwesten.de##div.clearfix.container-main:nth-of-type(7) > .container-sidebar
+
+! 2020 https://www.washingtonpost.com
+||www.washingtonpost.com/subscribe/paywall/get-softwall$subdocument
+www.washingtonpost.com##.pr-lg-lg.grid-item--cols-lg-8.mt-md-l.mt-xxs.mb-xxl-ns.br-l.b-l.grid-item--cols-md-12.grid-item--cols-sm-12.grid-item > div:nth-of-type(7)
+www.washingtonpost.com##.mb-lg-mod.pb-lgmod.bb.b.outbrain-wrapper
+
+! 2020 https://nypost.com
+||buy.tinypass.com/checkout/template/show$subdocument
+
+! 2020 https://www.latimes.com
+! Site is broken using adblock, you just can't scroll some articels
+! Connects to nc0.co, ntv.io, rubiconproject.com, brightspotcdn.com and more..
+! I wouldn't use this site, your decision
+
+! 2020 https://www.wsj.com
+www.wsj.com###wrapper-AD_NATIVE1
+www.wsj.com##.WSJTheme--coupon-headline--3seqsuxh
+www.wsj.com##.style--padding-right--3ZOC7BEg.style--padding-left--2oKDp1LY.style--column-16--3PkqkhOO.style--column-top--3Nm75EtS.style--column--1p190TxH > .style--grid--SxS2So51
+
+! 2020 https://www.theguardian.com
+www.theguardian.com##.js-aside-slot-container.aside-slot-container
+www.theguardian.com##.contributions__epic--2019-11-29_global_control_epic__no_articlecount-control.contributions__epic--2019-11-29_global_control_epic__no_articlecount.contributions__epic
